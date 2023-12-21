@@ -2,5 +2,5 @@ We are the Devops guys
 this is to test the new commit
 just testing for changes
 na my final vi for tonight is this 
-This edit was made using got hub
+This edit was made using git hub
 
